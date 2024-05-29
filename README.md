@@ -8,6 +8,6 @@ The objective of the game is to control the red square (using arrow keys) and mo
 
 <img width="390" alt="Screenshot 2024-05-04 at 17 20 10" src="https://github.com/tiffanyni/My-GBA-Game/assets/167052032/2ee1ea90-ec80-47ba-8685-41032e9d67a7">
 
-If the red square collides with any of the blue boxes, then you fail and respawn at the starting point again. There is a counter on the bottom right corner showing you the number of fails you have accumulated so far. At any point in the game, you can press the backspace key to return to the start menu.
+If the red square collides with any of the blue boxes (these boxes are moving at various speeds), then you fail and respawn at the starting point again. There is a counter on the bottom right corner showing you the number of fails you have accumulated so far. At any point in the game, you can press the backspace key to return to the start menu.
 
 That's it, enjoy!!
